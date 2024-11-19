@@ -1,11 +1,20 @@
 ---
-title: "Samantha Henry"
+title: "Samantha Henry (she/her)"
+output: 
+    html_document:
+        css: bootstrap.css
 ---
 
 ### Frontiers M.S. Student at the University of Michigan
-### Ecology & Evolutionary Biology
+### [Ecology & Evolutionary Biology](https://lsa.umich.edu/eeb/people/graduate-students/henrysam.html)
 
 I am interested in organismal biology, evolution, conservation, and behavior.
+
+<img src="files/reduced_quality3.jpg" style="width:25%">
+
+---
+
+## Education
 
 I received my Associate of Arts degree at Valencia College (2019-2021), where I
 focused on Biology.

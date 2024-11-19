@@ -1,0 +1,8 @@
+---
+title: "Research"
+output: 
+    html_document:
+        css: bootstrap.css
+---
+
+My past research focused on animal communication.
